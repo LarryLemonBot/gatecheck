@@ -11,7 +11,7 @@ This scorecard is public, static evidence for directories and reviewers. It is c
 - Product homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
-- Registry manifest: `https://x402-resource-scanner.vercel.app/mcp-registry/gatecheck/server.json`
+- Registry manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
 
 ## Readiness Checks
 

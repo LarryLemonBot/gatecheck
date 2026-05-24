@@ -23,7 +23,7 @@ Use the LarryBuildsAI submission inbox if entering an email is required. Do not 
 - Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
 - MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
-- Server manifest: `https://x402-resource-scanner.vercel.app/mcp-registry/gatecheck/server.json`
+- Server manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
 
 ## Boundary
 

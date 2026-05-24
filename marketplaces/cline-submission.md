@@ -37,7 +37,7 @@ GateCheck helps Cline users evaluate whether a paid agent tool is discoverable, 
 - Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
-- Server manifest: `https://x402-resource-scanner.vercel.app/mcp-registry/gatecheck/server.json`
+- Server manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
 - Public `tools/list`: returns six GateCheck tools, starting with `boundary_guard_check`
 
 ## Tool Inventory

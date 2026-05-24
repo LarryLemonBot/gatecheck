@@ -22,8 +22,9 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 ## Submitted Listings
 
 - Cline MCP Marketplace issue: `https://github.com/cline/mcp-marketplace/issues/1654`
+- MCP.Directory form submission: `https://mcp.directory/submit`
 
-Status: submitted/open. Do not claim Cline approval or listing until the marketplace publishes or merges it.
+Status: submitted/open. Do not claim Cline or MCP.Directory approval/listing until the marketplace publishes or merges it.
 
 ## External Blocker
 
