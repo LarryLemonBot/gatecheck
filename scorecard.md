@@ -12,6 +12,7 @@ This scorecard is public, static evidence for directories and reviewers. It is c
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
 - Registry manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
+- Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 
 ## Readiness Checks
 
@@ -39,6 +40,7 @@ This scorecard is public, static evidence for directories and reviewers. It is c
 Verified public surfaces include:
 
 - GateCheck remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 - Smithery: `https://smithery.ai/servers/larrybuildsai/gatecheck`
 - Glama: `https://glama.ai/mcp/connectors/io.github.LarryLemonBot/gatecheck`
 - mcpservers.org: `https://mcpservers.org/servers/x402-resource-scanner-vercel-app-gatecheck-marketplaces`

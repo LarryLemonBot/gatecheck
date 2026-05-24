@@ -75,6 +75,7 @@ This repository is the public distribution and marketplace-submission surface fo
 Verified public surfaces include:
 
 - GateCheck remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 - Smithery: `https://smithery.ai/servers/larrybuildsai/gatecheck`
 - Glama: `https://glama.ai/mcp/connectors/io.github.LarryLemonBot/gatecheck`
 - mcpservers.org: `https://mcpservers.org/servers/x402-resource-scanner-vercel-app-gatecheck-marketplaces`

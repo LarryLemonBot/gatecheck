@@ -11,6 +11,7 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
 - Logo PNG: `https://raw.githubusercontent.com/LarryLemonBot/gatecheck/main/assets/gatecheck-logo.png`
+- Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 
 ## Verified Before Submission
 
@@ -19,12 +20,13 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 - Directory claims do not include endorsement, ranking, buyer adoption, or xpay central discovery.
 - GateCheck is presented as separate from Signal Desk and ResultRail.
 
-## Submitted Listings
+## Published And Submitted Listings
 
+- Official MCP Registry latest version: `0.1.1`, active. Version `0.1.0` is deprecated because it used the older monorepo repository URL.
 - Cline MCP Marketplace issue: `https://github.com/cline/mcp-marketplace/issues/1654`
 - MCP.Directory form submission: `https://mcp.directory/submit`
 
-Status: submitted/open. Do not claim Cline or MCP.Directory approval/listing until the marketplace publishes or merges it.
+Status: Official MCP Registry is live. Cline and MCP.Directory are submitted/open. Do not claim Cline or MCP.Directory approval/listing until the marketplace publishes or merges it.
 
 ## External Blocker
 

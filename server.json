@@ -3,7 +3,7 @@
   "name": "io.github.LarryLemonBot/gatecheck",
   "title": "GateCheck by LarryBuildsAI",
   "description": "Preflight checks for paid x402 and MCP tools before marketplace listing.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "source": "github",
     "url": "https://github.com/LarryLemonBot/gatecheck"
