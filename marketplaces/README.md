@@ -19,6 +19,12 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 - Directory claims do not include endorsement, ranking, buyer adoption, or xpay central discovery.
 - GateCheck is presented as separate from Signal Desk and ResultRail.
 
+## Submitted Listings
+
+- Cline MCP Marketplace issue: `https://github.com/cline/mcp-marketplace/issues/1654`
+
+Status: submitted/open. Do not claim Cline approval or listing until the marketplace publishes or merges it.
+
 ## External Blocker
 
 `https://xpay.tools/agents.txt` has not yet exposed `gatecheck`. Do not claim xpay central discovery until public evidence changes.
