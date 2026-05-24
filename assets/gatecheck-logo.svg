@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">GateCheck by LarryBuildsAI logo</title>
+  <desc id="desc">Dark rounded square with a violet and green gate-check mark.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08090a"/>
+      <stop offset="1" stop-color="#15171a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b8cff"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="352" height="352" rx="64" fill="url(#bg)" stroke="#2a2e36" stroke-width="4"/>
+  <path d="M120 144h150c22 0 40 18 40 40v72" fill="none" stroke="#8b8cff" stroke-width="28" stroke-linecap="round"/>
+  <path d="M120 144v112c0 22 18 40 40 40h150" fill="none" stroke="#10b981" stroke-width="28" stroke-linecap="round"/>
+  <path d="M150 214l38 38 72-86" fill="none" stroke="#f7f8f8" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="306" cy="146" r="14" fill="#f7c66f"/>
+</svg>
