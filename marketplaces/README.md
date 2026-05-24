@@ -28,8 +28,9 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 - mcpservers.org refresh submission: `2686`, submitted free with canonical repo `https://github.com/LarryLemonBot/gatecheck`
 - mcpserver.cc / Awesome MCP Servers issue comment: `https://github.com/Horatio-Li/awesome-mcp-servers/issues/1#issuecomment-4527615149`
 - MCP Server Spot live page: `https://www.mcpserverspot.com/servers/gatecheck-by-larrybuildsai`
+- Awesome MCP Servers draft PR: `https://github.com/TensorBlock/awesome-mcp-servers/pull/588`
 
-Status: Official MCP Registry and MCP Server Spot public pages are live. Cline, MCP.Directory, mcpserver.cc / Awesome MCP Servers, and the mcpservers.org refresh are submitted/open. Do not claim Cline or MCP.Directory approval/listing, mcpserver.cc publication, or mcpservers.org content refresh, until the marketplace publishes, merges, or updates it.
+Status: Official MCP Registry and MCP Server Spot public pages are live. Cline, MCP.Directory, Awesome MCP Servers, mcpserver.cc / Awesome MCP Servers, and the mcpservers.org refresh are submitted/open. Do not claim Cline or MCP.Directory approval/listing, Awesome MCP Servers merge/listing, mcpserver.cc publication, or mcpservers.org content refresh, until the marketplace publishes, merges, or updates it.
 
 ## External Blocker
 
