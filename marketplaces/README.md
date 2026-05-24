@@ -7,7 +7,7 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 - GitHub repo: `https://github.com/LarryLemonBot/gatecheck`
 - Hosted homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
 - Remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
-- Scorecard: `https://x402-resource-scanner.vercel.app/gatecheck/scorecard`
+- Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
 - Logo PNG: `https://raw.githubusercontent.com/LarryLemonBot/gatecheck/main/assets/gatecheck-logo.png`

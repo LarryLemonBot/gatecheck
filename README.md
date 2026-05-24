@@ -11,7 +11,7 @@ Use it before public submission, promotion, or paid agent routing to verify that
 - Public introspection: `initialize` and `tools/list`
 - Protected tool execution: bearer auth may be required for direct production calls
 - Product homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
-- Scorecard: `https://x402-resource-scanner.vercel.app/gatecheck/scorecard`
+- Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
 
@@ -74,13 +74,11 @@ This repository is the public distribution and marketplace-submission surface fo
 
 Verified public surfaces include:
 
-- Official MCP Registry remote: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- GateCheck remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
 - Smithery: `https://smithery.ai/servers/larrybuildsai/gatecheck`
 - Glama: `https://glama.ai/mcp/connectors/io.github.LarryLemonBot/gatecheck`
 - mcpservers.org: `https://mcpservers.org/servers/x402-resource-scanner-vercel-app-gatecheck-marketplaces`
 - MCP.so: `https://mcp.so/server/gatecheck-by-larrybuildsai`
-- xpay proxy: `https://boundary-guard-x402.mcp.xpay.sh/mcp`
-- xpay portal: `https://boundary-guard-x402.on.xpay.sh/mcp_server/boundary-guard-x402`
 
 Known external blocker: `https://xpay.tools/agents.txt` has not yet exposed `gatecheck`, so xpay central discovery is not claimed.
 
@@ -89,5 +87,6 @@ Known external blocker: `https://xpay.tools/agents.txt` has not yet exposed `gat
 - Cline submission draft: `marketplaces/cline-submission.md`
 - MCP.Directory submission draft: `marketplaces/mcp-directory-submission.md`
 - Server manifest: `server.json`
+- Public scorecard: `scorecard.md`
 - Logo SVG: `assets/gatecheck-logo.svg`
 - Logo PNG: `assets/gatecheck-logo.png`

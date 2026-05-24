@@ -34,7 +34,7 @@ GateCheck helps Cline users evaluate whether a paid agent tool is discoverable, 
 ## Public Verification
 
 - Product homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
-- Scorecard: `https://x402-resource-scanner.vercel.app/gatecheck/scorecard`
+- Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
 - Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
 - Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
 - Server manifest: `https://x402-resource-scanner.vercel.app/mcp-registry/gatecheck/server.json`

@@ -26,7 +26,7 @@
     "io.modelcontextprotocol.registry/publisher-provided": {
       "productName": "GateCheck",
       "homepage": "https://x402-resource-scanner.vercel.app/gatecheck",
-      "scorecard": "https://x402-resource-scanner.vercel.app/gatecheck/scorecard",
+      "scorecard": "https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md",
       "docs": "https://x402-resource-scanner.vercel.app/gatecheck/llms.txt",
       "productCard": "https://x402-resource-scanner.vercel.app/gatecheck/product-card.md",
       "marketplaces": "https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json",
