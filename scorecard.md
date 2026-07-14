@@ -7,10 +7,10 @@ This scorecard is public, static evidence for directories and reviewers. It is c
 ## Canonical Endpoints
 
 - Public repo: `https://github.com/LarryLemonBot/gatecheck`
-- Remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
-- Product homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
-- Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
-- Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
+- Remote MCP endpoint: `https://proofbeforepay.vercel.app/gatecheck/mcp`
+- Product homepage: `https://proofbeforepay.vercel.app/gatecheck`
+- Product card: `https://proofbeforepay.vercel.app/gatecheck/product-card.md`
+- Marketplace index: `https://proofbeforepay.vercel.app/gatecheck/marketplaces.json`
 - Registry manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
 - Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 
@@ -39,7 +39,7 @@ This scorecard is public, static evidence for directories and reviewers. It is c
 
 Verified public surfaces include:
 
-- GateCheck remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- GateCheck remote MCP endpoint: `https://proofbeforepay.vercel.app/gatecheck/mcp`
 - Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 - Smithery: `https://smithery.ai/servers/larrybuildsai/gatecheck`
 - Glama: `https://glama.ai/mcp/connectors/io.github.LarryLemonBot/gatecheck`

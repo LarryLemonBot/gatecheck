@@ -11,7 +11,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://x402-resource-scanner.vercel.app/gatecheck/mcp",
+      "url": "https://proofbeforepay.vercel.app/gatecheck/mcp",
       "headers": [
         {
           "name": "Authorization",
@@ -25,12 +25,12 @@
   "_meta": {
     "io.modelcontextprotocol.registry/publisher-provided": {
       "productName": "GateCheck",
-      "homepage": "https://x402-resource-scanner.vercel.app/gatecheck",
+      "homepage": "https://proofbeforepay.vercel.app/gatecheck",
       "scorecard": "https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md",
-      "docs": "https://x402-resource-scanner.vercel.app/gatecheck/llms.txt",
-      "productCard": "https://x402-resource-scanner.vercel.app/gatecheck/product-card.md",
-      "marketplaces": "https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json",
-      "serverCard": "https://x402-resource-scanner.vercel.app/gatecheck/.well-known/mcp/server-card.json",
+      "docs": "https://proofbeforepay.vercel.app/gatecheck/llms.txt",
+      "productCard": "https://proofbeforepay.vercel.app/gatecheck/product-card.md",
+      "marketplaces": "https://proofbeforepay.vercel.app/gatecheck/marketplaces.json",
+      "serverCard": "https://proofbeforepay.vercel.app/gatecheck/.well-known/mcp/server-card.json",
       "directoryCategory": "Agent Verification & Security",
       "separateFrom": [
         "Signal Desk",

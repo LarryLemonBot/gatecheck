@@ -6,14 +6,14 @@ Use it before public submission, promotion, or paid agent routing to verify that
 
 ## Hosted MCP Endpoint
 
-- Remote MCP URL: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- Remote MCP URL: `https://proofbeforepay.vercel.app/gatecheck/mcp`
 - Transport: `streamable-http`
 - Public introspection: `initialize` and `tools/list`
 - Protected tool execution: bearer auth may be required for direct production calls
-- Product homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
+- Product homepage: `https://proofbeforepay.vercel.app/gatecheck`
 - Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
-- Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
-- Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
+- Product card: `https://proofbeforepay.vercel.app/gatecheck/product-card.md`
+- Marketplace index: `https://proofbeforepay.vercel.app/gatecheck/marketplaces.json`
 
 ## MCP Client Config
 
@@ -22,7 +22,7 @@ Use it before public submission, promotion, or paid agent routing to verify that
   "mcpServers": {
     "gatecheck": {
       "type": "streamable-http",
-      "url": "https://x402-resource-scanner.vercel.app/gatecheck/mcp"
+      "url": "https://proofbeforepay.vercel.app/gatecheck/mcp"
     }
   }
 }
@@ -74,14 +74,13 @@ This repository is the public distribution and marketplace-submission surface fo
 
 Verified public surfaces include:
 
-- GateCheck remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- GateCheck remote MCP endpoint: `https://proofbeforepay.vercel.app/gatecheck/mcp`
 - Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 - Smithery: `https://smithery.ai/servers/larrybuildsai/gatecheck`
 - Glama: `https://glama.ai/mcp/connectors/io.github.LarryLemonBot/gatecheck`
 - mcpservers.org: `https://mcpservers.org/servers/x402-resource-scanner-vercel-app-gatecheck-marketplaces`
-- MCP.so: `https://mcp.so/server/gatecheck-by-larrybuildsai`
 
-Known external blocker: `https://xpay.tools/agents.txt` has not yet exposed `gatecheck`, so xpay central discovery is not claimed.
+Known external blockers: the former MCP.so listing URL currently returns `404`, and `https://xpay.tools/agents.txt` has not exposed `gatecheck`. Neither surface is claimed as live.
 
 ## Marketplace Packet
 

@@ -19,10 +19,10 @@ Use the LarryBuildsAI submission inbox if entering an email is required. Do not 
 
 ## Public Evidence
 
-- Homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
+- Homepage: `https://proofbeforepay.vercel.app/gatecheck`
 - Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
-- MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
-- Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
+- MCP endpoint: `https://proofbeforepay.vercel.app/gatecheck/mcp`
+- Product card: `https://proofbeforepay.vercel.app/gatecheck/product-card.md`
 - Server manifest: `https://github.com/LarryLemonBot/gatecheck/blob/main/server.json`
 - Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 

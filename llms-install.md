@@ -9,7 +9,7 @@ Use the remote endpoint:
   "mcpServers": {
     "gatecheck": {
       "type": "streamable-http",
-      "url": "https://x402-resource-scanner.vercel.app/gatecheck/mcp"
+      "url": "https://proofbeforepay.vercel.app/gatecheck/mcp"
     }
   }
 }

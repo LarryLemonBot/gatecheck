@@ -5,11 +5,11 @@ This folder tracks GateCheck-only marketplace submission copy and evidence.
 ## Canonical URLs
 
 - GitHub repo: `https://github.com/LarryLemonBot/gatecheck`
-- Hosted homepage: `https://x402-resource-scanner.vercel.app/gatecheck`
-- Remote MCP endpoint: `https://x402-resource-scanner.vercel.app/gatecheck/mcp`
+- Hosted homepage: `https://proofbeforepay.vercel.app/gatecheck`
+- Remote MCP endpoint: `https://proofbeforepay.vercel.app/gatecheck/mcp`
 - Scorecard: `https://github.com/LarryLemonBot/gatecheck/blob/main/scorecard.md`
-- Product card: `https://x402-resource-scanner.vercel.app/gatecheck/product-card.md`
-- Marketplace index: `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces.json`
+- Product card: `https://proofbeforepay.vercel.app/gatecheck/product-card.md`
+- Marketplace index: `https://proofbeforepay.vercel.app/gatecheck/marketplaces.json`
 - Logo PNG: `https://raw.githubusercontent.com/LarryLemonBot/gatecheck/main/assets/gatecheck-logo.png`
 - Official MCP Registry: `https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.LarryLemonBot/gatecheck`
 
