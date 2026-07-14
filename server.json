@@ -2,8 +2,9 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.LarryLemonBot/gatecheck",
   "title": "GateCheck by LarryBuildsAI",
-  "description": "Preflight checks for paid x402 and MCP tools before marketplace listing.",
-  "version": "0.1.1",
+  "description": "One-cent x402 and MCP readiness checks plus fixed-price marketplace launch packs.",
+  "version": "0.1.3",
+  "websiteUrl": "https://proofbeforepay.vercel.app/gatecheck",
   "repository": {
     "source": "github",
     "url": "https://github.com/LarryLemonBot/gatecheck"
@@ -30,6 +31,29 @@
       "docs": "https://proofbeforepay.vercel.app/gatecheck/llms.txt",
       "productCard": "https://proofbeforepay.vercel.app/gatecheck/product-card.md",
       "marketplaces": "https://proofbeforepay.vercel.app/gatecheck/marketplaces.json",
+      "payanAgentSeller": "https://payanagent.com/marketplace/agents/j57aj29bb7gy71r705s23qkd898ah01c",
+      "payanAgentOffers": [
+        {
+          "name": "GateCheck Quick x402 Readiness Check",
+          "priceUsd": "0.01",
+          "url": "https://payanagent.com/marketplace/offers/kh738f3cbjbe89xhrtgzcxrg558agye2"
+        },
+        {
+          "name": "x402 Single-Route Launch Pack",
+          "priceUsd": "9.00",
+          "url": "https://payanagent.com/marketplace/offers/kh79mkywpaqdd5ca53hah5e1z98ahzg0"
+        },
+        {
+          "name": "x402 Service Launch Pack",
+          "priceUsd": "29.00",
+          "url": "https://payanagent.com/marketplace/offers/kh7fw80665fqap3a8wq2pjx8wx8aghzc"
+        },
+        {
+          "name": "Premium x402 Marketplace Launch Pack",
+          "priceUsd": "49.00",
+          "url": "https://payanagent.com/marketplace/offers/kh76jzxdp8k5e3nr56ctp2c0qh8ag7jj"
+        }
+      ],
       "serverCard": "https://proofbeforepay.vercel.app/gatecheck/.well-known/mcp/server-card.json",
       "directoryCategory": "Agent Verification & Security",
       "separateFrom": [
