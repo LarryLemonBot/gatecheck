@@ -51,6 +51,17 @@ GateCheck currently exposes six MCP tools:
 
 Public `tools/list` is available so buyers, agents, and directories can inspect the tool inventory before protected calls.
 
+## Buy through PayanAgent
+
+These fixed-price offers settle in USDC through PayanAgent and automatically return the purchased GateCheck artifact:
+
+- [Quick x402 readiness check — $1](https://payanagent.com/marketplace/offers/kh738f3cbjbe89xhrtgzcxrg558agye2)
+- [Single-route launch pack — $9](https://payanagent.com/marketplace/offers/kh79mkywpaqdd5ca53hah5e1z98ahzg0)
+- [Service launch pack — $29](https://payanagent.com/marketplace/offers/kh7fw80665fqap3a8wq2pjx8wx8aghzc)
+- [Premium marketplace launch pack — $49](https://payanagent.com/marketplace/offers/kh76jzxdp8k5e3nr56ctp2c0qh8ag7jj)
+
+Buyer input is validated before PayanAgent presents the payment flow. Generated launch packs contain listing and approval-review artifacts; they do not publish listings, contact buyers, or claim marketplace endorsement.
+
 ## What GateCheck Checks
 
 - Product-scoped discovery: homepage, `llms.txt`, `agents.txt`, product card, skill card, sitemap, and MCP server card.
